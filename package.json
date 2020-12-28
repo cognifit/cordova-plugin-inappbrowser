@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-inappbrowser",
+  "name": "@cognifit/cordova-plugin-inappbrowser",
   "version": "3.2.1-dev",
-  "description": "Cordova InAppBrowser Plugin",
+  "description": "CogniFit's fork of cordova-plugin-inappbrowser.\nCordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
     "id": "cordova-plugin-inappbrowser",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
+    "url": "https://github.com/cognifit/cordova-plugin-inappbrowser"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser/issues"
+    "url": "https://github.com/cognifit/cordova-plugin-inappbrowser/issues"
   },
   "keywords": [
     "cordova",

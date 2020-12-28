@@ -22,12 +22,15 @@
            id="cordova-plugin-inappbrowser"
       version="3.2.1-dev">
 
-    <name>InAppBrowser</name>
-    <description>Cordova InAppBrowser Plugin</description>
+    <name>CogniFit's fork of cordova-plugin-inappbrowser</name>
+    <description>
+    	Cordova InAppBrowser Plugin
+    	See original project at: https://github.com/apache/cordova-plugin-inappbrowser
+    </description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,inappbrowser</keywords>
-    <repo>https://github.com/apache/cordova-plugin-inappbrowser</repo>
-    <issue>https://github.com/apache/cordova-plugin-inappbrowser/issues</issue>
+    <repo>https://github.com/cognifit/cordova-plugin-inappbrowser</repo>
+    <issue>https://github.com/cognifit/cordova-plugin-inappbrowser/issues</issue>
 
     <engines>
       <engine name="cordova" version=">=3.1.0" /><!-- Needs cordova/urlutil -->
